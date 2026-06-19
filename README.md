@@ -20,10 +20,22 @@ Whether you are a business looking to reduce support workload on Facebook, an ag
 
 ## Demo Videos
 
-| Demo | Link |
-|------|------|
-| Chatbot Messenger | [YouTube](https://www.youtube.com/watch?v=lJ_2IPxw0EQ) |
-| Web Admin | [YouTube](https://www.youtube.com/watch?v=3b8gbJLzLYU) |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Chatbot Messenger</b><br><br>
+      <a href="https://www.youtube.com/watch?v=lJ_2IPxw0EQ">
+        <img src="https://img.youtube.com/vi/lJ_2IPxw0EQ/maxresdefault.jpg" width="480" alt="Demo chatbot messenger">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <b>Web Admin</b><br><br>
+      <a href="https://www.youtube.com/watch?v=3b8gbJLzLYU">
+        <img src="https://img.youtube.com/vi/3b8gbJLzLYU/maxresdefault.jpg" width="480" alt="Demo web admin">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
