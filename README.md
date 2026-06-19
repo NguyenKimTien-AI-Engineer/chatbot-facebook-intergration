@@ -18,6 +18,15 @@ Whether you are a business looking to reduce support workload on Facebook, an ag
 
 ---
 
+## Demo Videos
+
+| Demo | Link |
+|------|------|
+| Chatbot Messenger | [YouTube](https://www.youtube.com/watch?v=lJ_2IPxw0EQ) |
+| Web Admin | [YouTube](https://www.youtube.com/watch?v=3b8gbJLzLYU) |
+
+---
+
 ## Overview
 
 **MekongAI Social** brings together the following capabilities into a unified platform:
