@@ -23,9 +23,15 @@ __pycache__
 env
 .env
 /.env
+tmp_login.json
+*.credentials.json
 
-
-# Byte-compiled / optimized / DLL resources
+# Runtime data directories
+/resources/data/*
+/resources/tmp/*
+/resources/logs/*
+/resources/db/*
+/resources/webhook
 __pycache__/
 **/__pycache__/
 *.py[cod]

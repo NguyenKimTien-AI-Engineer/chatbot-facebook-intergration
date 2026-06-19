@@ -12,7 +12,6 @@ from api.v1.bots.api_bot_management import router as bot_router
 from api.v1.crm.api_crm import router as crm_router
 from api.v1.knowledge.api_knowledge_management import router as knowledge_router
 from api.v1.system.api_system_management import router as system_router
-from api.v1.additional_features.api_additional_features import router as additional_router
 from api.v1.dashboard.api_dashboard import router as dashboard_router
 from api.v1.auth.api_authentication import router as auth_router
 from api.v1.business.api_business_managerment import router as business_router
@@ -34,7 +33,6 @@ v1_router.include_router(crm_router)
 v1_router.include_router(dashboard_router)
 v1_router.include_router(system_router)
 v1_router.include_router(statistics_router)
-# v1_router.include_router(additional_router)
 
 # Health check endpoint
 @v1_router.get("/health")
@@ -93,11 +91,6 @@ async def api_info():
                 "name": "System Management",
                 "prefix": "/system", 
                 "description": "Quản lý notifications, settings, API keys, sessions, audit logs"
-            },
-            {
-                "name": "Additional Features",
-                "prefix": "/additional",
-                "description": "Usage tracking, automation, webhooks, templates, analytics"
             },
             {
                 "name": "Dashboard",
