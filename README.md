@@ -20,22 +20,19 @@ Whether you are a business looking to reduce support workload on Facebook, an ag
 
 ## Demo Videos
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>Chatbot Messenger</b><br><br>
-      <a href="https://www.youtube.com/watch?v=lJ_2IPxw0EQ">
-        <img src="https://img.youtube.com/vi/lJ_2IPxw0EQ/maxresdefault.jpg" width="480" alt="Demo chatbot messenger">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <b>Web Admin</b><br><br>
-      <a href="https://www.youtube.com/watch?v=3b8gbJLzLYU">
-        <img src="https://img.youtube.com/vi/3b8gbJLzLYU/maxresdefault.jpg" width="480" alt="Demo web admin">
-      </a>
-    </td>
-  </tr>
-</table>
+Click vào ảnh preview hoặc link bên dưới để xem video trên YouTube.
+
+### Chatbot Messenger
+
+[![Demo Chatbot Messenger — click để xem](https://img.youtube.com/vi/lJ_2IPxw0EQ/hqdefault.jpg)](https://www.youtube.com/watch?v=lJ_2IPxw0EQ)
+
+▶ **[Xem demo Chatbot Messenger](https://www.youtube.com/watch?v=lJ_2IPxw0EQ)**
+
+### Web Admin
+
+[![Demo Web Admin — click để xem](https://img.youtube.com/vi/3b8gbJLzLYU/hqdefault.jpg)](https://www.youtube.com/watch?v=3b8gbJLzLYU)
+
+▶ **[Xem demo Web Admin](https://www.youtube.com/watch?v=3b8gbJLzLYU)**
 
 ---
 
